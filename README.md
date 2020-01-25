@@ -11,7 +11,7 @@ Clone the GitHub repository and open the index.html
 ```
 $ git clone
 "https://github.com/animus-liber/udacity-fend-feed-reader-testing.git"
-$ cd "frontend-nanodegree-feedreader"
+$ cd "udacity-fend-feed-reader-testing"
 $ index.html`
 ```
 
